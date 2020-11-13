@@ -27,11 +27,11 @@ Unfortunately I cannot host python websites on Github.
 - As I spent a day on this project (and same with most of my projects here on github) I am not commited enough to increase my dataset. However, I might choose to make this project better in the future.
 [1]
 
-<img src = "https://github.com/yvielcastillejos/ChatBot/blob/main/Images/Firstchat.gif" width = 500 height= 400>
+<img src = "https://github.com/yvielcastillejos/ChatBot/blob/main/Images/Firstchat.gif" width = 700 height= 600>
 
 [2]
 
-<img src ="https://github.com/yvielcastillejos/ChatBot/blob/main/Images/SecondChat.gif" width = 500 height= 400>
+<img src ="https://github.com/yvielcastillejos/ChatBot/blob/main/Images/SecondChat.gif" width = 700 height= 600>
 
 
 ## Future Steps
