@@ -1,0 +1,82 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "What's cracking",
+        "How've you been?",
+        "How have you been",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Good afternoon",
+        "Good Morning",
+        "Hello",
+          "Good day",
+          "Howdy",
+          "What's up",
+          "Yo",
+          "Hey there",
+          "Sup",
+          "Good to see you",
+          "Happy to see you"
+          
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["I’m out of here","See ya", "I will see you then","Peace","Peace out","Take Care", "I look forward to our next meeting","Until Then","Have a nice day","I’m off"," I’ve got to get going",  "I must be going","Bye","Bye Bye", "See you later", "See you soon",  "Talk to you later", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "Thank you so much","That's helpful", "Thank's a lot!", "Okay", "Thank thee", "Thank you, you're amazing!", "Thank you kindly", "I’m so thankful for everything you bring to the table", " Thanks a million", "I truly appreciate your hard work", "I truly appreciate you", " From the bottom of my heart, thank you", " Please accept my deepest thanks"
+                    ,"Grateful for your support", " I appreciate your thoughtfulness, you’ve made my day!", "Thanks for being in my corner", " Please accept my deepest thanks"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "bad",
+      "patterns": [
+        "You suck so much ",
+        " I hate you so much",
+        "You are so bad", "Suck my Suck my","Why are you so bad at this", "You don't help", "You make me want to die", "You are just awful","You are ugly", "F You so much", "You are a retard", "You are very stupid",
+          "You are lame", "Shut up bastard", "You tick me off", "You are an idiot", "You are lame", "Shut up bastard", "You tick me off", "You are an idiot", "You are a fool", "You are not funny"
+      ],
+      "responses": [
+        "Oh Okay...",
+        "I'm sorry",
+          "Sorry",
+          "I didn't mean to be bad, sorry"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+          "joke joke joke", "Give me a joke", "Joke to me", "What is funny", "How about a joke",
+          "Tell me something random", "Give me something funny", "Tell me a random joke",
+          "What is really funny", "Tell me an anecdote", "Tell me a funny story", "make me laugh",
+          "I want to laugh", "Can you make me laugh?", "What can make me laugh"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.", "joke joke joke", "What did the Cannibal get when he arrived to the party late? A cold shoulder", "What does a mermaid wear to her math class? An Algae Bra"
+      ]
+    }
+  ]
+}
