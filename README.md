@@ -29,7 +29,7 @@ Unfortunately I cannot host python websites on Github.
 
 <img src = "https://github.com/yvielcastillejos/ChatBot/blob/main/Images/Firstchat.gif" width = 850 height= 600>
 
-[2]
+[2] As one can see there are limitations to the responses you get.
 
 <img src ="https://github.com/yvielcastillejos/ChatBot/blob/main/Images/SecondChat.gif" width = 850 height= 600>
 
